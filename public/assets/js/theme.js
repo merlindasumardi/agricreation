@@ -257,7 +257,7 @@
 
     if ($("#testimonials-one__thumb").length) {
       let testimonialsThumb = new Swiper("#testimonials-one__thumb", {
-        slidesPerView: 3,
+        slidesPerView: 2,
         spaceBetween: 20,
         speed: 1400,
         watchSlidesVisibility: true,
