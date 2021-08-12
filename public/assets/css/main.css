@@ -5939,8 +5939,8 @@ h6 {
 
 @media (min-width: 992px) {
   .call-to-action__three-image {
-    top: -170px;
-    margin-bottom: -170px;
+    /* top: -170px;
+    margin-bottom: -170px; */
     margin-left: 0;
     margin-right: 0;
   }
@@ -7179,6 +7179,11 @@ h6 {
   }
 }
 
+.certificate-img {
+  max-width: 100%;
+  margin-bottom: 30px;
+}
+
 @media (min-width: 1200px) {
   .about-two__content {
     padding-left: 70px;
@@ -7246,7 +7251,7 @@ h6 {
 
 @media (min-width: 1200px) {
   .about-two__list li {
-    font-size: 18px;
+    font-size: 16px;
     padding-left: 30px;
   }
 }
